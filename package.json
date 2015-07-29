@@ -1,23 +1,23 @@
 {
-  "name": "aurelia-typeahead",
+  "name": "aurelia-signalr",
   "version": "1.0.7",
-  "description": "Aurelia wrapper for the twitter typeahead",
+  "description": "Aurelia wrapper for signalr",
   "keywords": [
     "aurelia",
     "http",
     "ajax"
   ],
-  "homepage": "https://github.com/TravcoLtd/aurelia-typeahead",
+  "homepage": "https://github.com/TravcoLtd/aurelia-signalr",
   "bugs": {
-    "url": "https://github.com/TravcoLtd/aurelia-typeahead/issues"
+    "url": "https://github.com/TravcoLtd/aurelia-signalr/issues"
   },
-  "main": "dist/typeahead.js",
+  "main": "dist/hub.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TravcoLtd/aurelia-typeahead"
+    "url": "https://github.com/TravcoLtd/aurelia-signalr"
   },
   "jspm": {
-    "main": "typeahead",
+    "main": "dist/hub.js",
     "format": "amd",
     "directories": {
       "lib": "dist"
